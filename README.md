@@ -6,7 +6,7 @@ Self driving cars are becoming very popular due to efforts of companies like Tes
 To become level 5 autonomous it is important that these cars would have to correctly identify traffic signs and follow traffic rules.
 After identifying these traffic signs it should also be able to take correct decisions suitably.
 
-> Read more about it in my [Blogpost]
+> Read more about it in my [Blogpost](https://medium.com/analytics-vidhya/traffic-signs-recognition-for-self-driving-cars-6ee30f5dc952)
 
 > Download the Dataset here : [Dataset url](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
